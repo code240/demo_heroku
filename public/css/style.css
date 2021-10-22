@@ -1,0 +1,48 @@
+body{
+    padding-top: 8rem;
+}
+.main-div{
+    text-align: center;
+    width: fit-content;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    margin:  0 auto;
+    border-radius: 10px;
+    border: 1px solid #555;
+    box-shadow: 1px 1px 6px #999;
+}
+h1{
+    color:red;       
+}
+.ps-input{
+    display: block;
+    margin: 0 auto;
+    padding: 5px;
+    width: 15rem;
+    padding-left: 8px;
+    margin-top: 1rem;
+}
+.us-input{
+    width: 15rem;
+    display: block;
+    margin: 0 auto;
+    padding: 5px;
+    padding-left: 8px;
+    margin-top: 3rem;
+}
+.btn-login{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 0 auto;
+    display: block;
+    margin-top: 1rem;
+}
+.btn-register{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 0 auto;
+    display: block;
+    margin-top: 1rem;
+}
